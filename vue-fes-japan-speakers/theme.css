@@ -1,0 +1,25 @@
+:root{
+  --paper: #f4f1eb;
+  --paper-2: #ece7dd;
+  --rule: #1a1a17;
+  --rule-soft: #1a1a1724;
+  --rule-softer: #1a1a1712;
+  --ink: #1a1a17;
+  --ink-2: #3a3a35;
+  --ink-3: #6b6b64;
+  --accent: #007f62;
+  --accent-ink: #fff;
+}
+
+:root[data-theme=dark] {
+  --paper: #1c1c19;
+  --paper-2: #262622;
+  --rule: #e8e4dc;
+  --rule-soft: #e8e4dc26;
+  --rule-softer: #e8e4dc12;
+  --ink: #e8e4dc;
+  --ink-2: #b4b0a8;
+  --ink-3: #7a7a72;
+  --accent: #2ed9a8;
+  --accent-ink: #0d2820;
+}
