@@ -1,0 +1,12 @@
+{
+  "name": "color-palette",
+  "version": "1.0.0",
+  "description": "",
+  "packageManager": "pnpm@10.33.0",
+  "scripts": {
+    "www": "pnpm -C www"
+  },
+  "keywords": [],
+  "author": "108yen",
+  "license": "MIT"
+}

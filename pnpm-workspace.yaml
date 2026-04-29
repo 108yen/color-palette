@@ -1,0 +1,4 @@
+packages:
+  - www
+
+minimalReleaseAge: 10080
